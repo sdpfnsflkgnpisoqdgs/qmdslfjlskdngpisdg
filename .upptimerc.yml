@@ -13,8 +13,9 @@ sites:
     url: $APP
 
 status-website:
-  theme: dark 
-  # night or ocean
+  theme: night
+   # light, dark, night or ocean
+  logoUrl: https://api.lingenu.org/storage/image%2014.jpg
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
