@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 734,
-    "timeWeek": 734,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "time": 744,
+    "timeDay": 744,
+    "timeWeek": 744,
+    "timeMonth": 744,
+    "timeYear": 744,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1062,
-    "timeDay": 1062,
-    "timeWeek": 1062,
-    "timeMonth": 1062,
-    "timeYear": 1062,
+    "time": 1081,
+    "timeDay": 1081,
+    "timeWeek": 1081,
+    "timeMonth": 1081,
+    "timeYear": 1081,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 486,
+    "timeDay": 486,
+    "timeWeek": 486,
+    "timeMonth": 486,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "app",
     "status": "down",
-    "uptime": "6.98%",
-    "uptimeDay": "6.98%",
-    "uptimeWeek": "6.98%",
-    "uptimeMonth": "6.98%",
-    "uptimeYear": "6.98%",
-    "time": 451,
-    "timeDay": 451,
-    "timeWeek": 451,
-    "timeMonth": 451,
-    "timeYear": 451,
+    "uptime": "6.93%",
+    "uptimeDay": "6.93%",
+    "uptimeWeek": "6.93%",
+    "uptimeMonth": "6.93%",
+    "uptimeYear": "6.93%",
+    "time": 456,
+    "timeDay": 456,
+    "timeWeek": 456,
+    "timeMonth": 456,
+    "timeYear": 456,
     "dailyMinutesDown": {
-      "2023-11-11": 141
+      "2023-11-11": 143
     }
   }
 ]
