@@ -22,6 +22,7 @@ status-website:
   name: Upptime
   logoUrl: https://api.lingenu.org/storage/img_1.jpg
   favicon: https://api.lingenu.org/storage/img_1.jpg
+  robotsText: "User-agent: * \n Disallow: /"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
