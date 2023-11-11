@@ -1,7 +1,7 @@
 url: $APP
-status: up
-code: 200
-responseTime: 370
-lastUpdated: 2023-11-11T20:12:57.910Z
+status: down
+code: 502
+responseTime: 539
+lastUpdated: 2023-11-11T20:23:34.927Z
 startTime: 2023-11-11T20:12:57.536Z
 generator: Upptime <https://github.com/upptime/upptime>
