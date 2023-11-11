@@ -17,7 +17,7 @@ sites:
     url: $APP
 
 status-website:
-  theme: night
+  theme: dark
    # light, dark, night or ocean
   logoUrl: https://api.lingenu.org/storage/image%2014.jpg
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
