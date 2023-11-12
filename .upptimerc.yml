@@ -9,6 +9,8 @@ sites:
   #  url: https://en.wikipedia.org
   - name: "L'Ingénu"
     url: https://lingenu.org
+  - name: "L'Ingénu API Banner"
+    url: https://api.lingenu.org/api/homeBanner
   - name: "My Future Training"
     url: https://my-future-training.com
   - name: "Morf-in or PilgrRim"
