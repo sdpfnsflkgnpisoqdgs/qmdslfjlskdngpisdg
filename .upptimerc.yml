@@ -11,14 +11,19 @@ sites:
     url: https://lingenu.org
   - name: "My Future Training"
     url: https://my-future-training.com
+  - name: "Morf-in or PilgrRim"
+    url: https://morf-in.com
+  - name: "RtArthur.vue"
+    url: $RT_APP
   - name: API dev
     url: $API_DEV
   - name: APP
     url: $APP
 
 status-website:
-  theme: dark
-   # light, dark, night or ocean
+  theme:
+    dark
+    # light, dark, night or ocean
   name: Upptime
   logoUrl: https://api.lingenu.org/storage/img_1.jpg
   favicon: https://api.lingenu.org/storage/img_1.jpg
