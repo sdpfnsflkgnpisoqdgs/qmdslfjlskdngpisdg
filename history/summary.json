@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/morf-in.com.ico",
     "slug": "morf-in-or-pilgr-rim",
     "status": "down",
-    "uptime": "79.37%",
-    "uptimeDay": "79.37%",
-    "uptimeWeek": "79.37%",
-    "uptimeMonth": "79.37%",
-    "uptimeYear": "79.37%",
+    "uptime": "75.99%",
+    "uptimeDay": "75.99%",
+    "uptimeWeek": "75.99%",
+    "uptimeMonth": "75.99%",
+    "uptimeYear": "75.99%",
     "time": 397,
     "timeDay": 397,
     "timeWeek": 397,
     "timeMonth": 397,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2023-11-12": 67
+      "2023-11-12": 82
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "$RT_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rt-arthur-vue",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "status": "up",
+    "uptime": "95.53%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "95.53%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "95.53%",
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {
-      "2023-11-12": 1
+      "2023-11-12": 15
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-dev",
     "status": "down",
-    "uptime": "94.82%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "94.82%",
-    "uptimeMonth": "94.82%",
-    "uptimeYear": "94.82%",
+    "uptime": "93.05%",
+    "uptimeDay": "93.05%",
+    "uptimeWeek": "93.05%",
+    "uptimeMonth": "93.05%",
+    "uptimeYear": "93.05%",
     "time": 450,
     "timeDay": 450,
     "timeWeek": 450,
     "timeMonth": 450,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2023-11-12": 39
+      "2023-11-12": 54
     }
   },
   {
@@ -119,11 +119,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "40.05%",
-    "uptimeDay": "40.05%",
-    "uptimeWeek": "40.05%",
-    "uptimeMonth": "40.05%",
-    "uptimeYear": "40.05%",
+    "uptime": "41.16%",
+    "uptimeDay": "41.16%",
+    "uptimeWeek": "41.16%",
+    "uptimeMonth": "41.16%",
+    "uptimeYear": "41.16%",
     "time": 517,
     "timeDay": 517,
     "timeWeek": 517,
