@@ -23,6 +23,7 @@ sites:
     url: $APP
   - name: This website
     url: https://sdpfnsflkgnpisoqdgs.github.io/qmdslfjlskdngpisdg/
+    icon: https://api.lingenu.org/storage/img_1.jpg
 
 status-website:
   theme:
