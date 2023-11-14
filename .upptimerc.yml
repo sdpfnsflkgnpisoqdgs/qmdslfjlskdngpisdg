@@ -21,6 +21,8 @@ sites:
     url: $API_DEV
   - name: APP
     url: $APP
+  - name: This website
+    url: https://sdpfnsflkgnpisoqdgs.github.io/qmdslfjlskdngpisdg/
 
 status-website:
   theme:
