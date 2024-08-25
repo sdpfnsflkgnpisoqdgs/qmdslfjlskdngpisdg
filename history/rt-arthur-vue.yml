@@ -1,7 +1,7 @@
 url: $RT_APP
-status: up
-code: 200
-responseTime: 380
-lastUpdated: 2024-08-25T11:23:33.260Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-08-25T11:33:35.328Z
 startTime: 2023-11-12T03:32:35.805Z
 generator: Upptime <https://github.com/upptime/upptime>
