@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 800,
     "dailyMinutesDown": {
-      "2024-08-26": 1361,
+      "2024-08-26": 1380,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -149,7 +149,7 @@
     "url": "$RT_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rt-arthur-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "63.25%",
     "uptimeWeek": "91.27%",
